@@ -1,16 +1,18 @@
 <script setup>
   import Header from './components/Header.vue'
-  import footer from './components/footer.vue'
+  import Footer from './components/footer.vue'
 </script>
 
 
 <template>
-  
   <header>
     <Header />
   </header>
   
   
-  <footer />
+  
+  <footer>
+    <Footer />
+  </footer>
 </template>
   
