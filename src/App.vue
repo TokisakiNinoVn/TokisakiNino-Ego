@@ -3,15 +3,14 @@
   import footer from './components/footer.vue'
 </script>
 
+
 <template>
-
-  <Header />
-
-
+  
+  <header>
+    <Header />
+  </header>
+  
+  
   <footer />
-
 </template>
-
-<style scoped>
-
-</style>
+  
