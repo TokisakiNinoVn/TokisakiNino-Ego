@@ -1,5 +1,28 @@
 @import "style.css";
 
+header {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul {
+    display: flex;
+}
+
+.main_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    background-color: bisque;
+    max-width: 1120px;
+    padding: 0 20px;
+}
 .main_header .logo img  {
     width: 50px;
     border-radius: 10px;
