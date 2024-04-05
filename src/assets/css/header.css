@@ -1,0 +1,6 @@
+@import "style.css";
+
+.main_header .logo img  {
+    width: 50px;
+    border-radius: 10px;
+}
