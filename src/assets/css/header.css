@@ -5,6 +5,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100vw;
 }
 
 ul {
@@ -15,10 +16,10 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 70%;
+    width: 100%;
     /* background-color: bisque; */
     max-width: 1120px;
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }
 .navbar {
     display: flex;
@@ -40,9 +41,9 @@ ul.nav li {
     border-bottom: 3px solid rgba(0, 0, 0, 0);
 }
 ul.nav li:hover {
-    border-bottom: 3px solid rgb(234, 0, 255);
+    border-bottom: 3px solid rgb(255, 140, 183);
 }
 
 ul.nav li a:hover {
-    color: rgb(255, 0, 242);
+    color: rgb(255, 140, 183);
 }
