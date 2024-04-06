@@ -18,7 +18,7 @@ ul {
     justify-content: space-between;
     align-items: center;
     width: 70%;
-    background-color: bisque;
+    /* background-color: bisque; */
     max-width: 1120px;
     padding: 0 20px;
 }
@@ -31,4 +31,20 @@ ul {
 .main_header .navbar img  {
     width: 50px;
     border-radius: 10px;
+    margin-right: 20px;
+}
+/* ul.nav {
+
+} */
+ul.nav li {
+    margin: 0 10px;
+    font-size: 20px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0);
+}
+ul.nav li:hover {
+    border-bottom: 3px solid rgb(234, 0, 255);
+}
+
+ul.nav li a:hover {
+    color: rgb(255, 0, 242);
 }

@@ -3,7 +3,7 @@
         <div class="navbar">
             <img src="/img/Elysia1.png" alt="logo" />
             <nav>
-                <ul>
+                <ul class="nav">
                     <li><a href="/">Home</a></li>
                     <li><a href="/">Gallery</a></li>
                     <li><a href="/">Profile</a></li>

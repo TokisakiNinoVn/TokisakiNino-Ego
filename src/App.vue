@@ -9,10 +9,14 @@
     <Header />
   </header>
   
-  
+  <img class="elysia_main" src="../public/ElysiaAlbum/main.png" alt="">
   
   <footer>
     <Footer />
   </footer>
 </template>
   
+
+<script>
+import './assets/css/main.css'
+</script>
