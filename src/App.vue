@@ -9,13 +9,18 @@
     <Header />
   </header>
   
-  <img class="elysia_main" src="../public/ElysiaAlbum/main.png" alt="">
+  <main>
+    <div class="main_content">
+      <div class="banner">
+        <img class="elysia_main" src="../public/ElysiaAlbum/ElysiaMaid.png" alt="">
+      </div>
+    </div>
+  </main>
   
   <footer>
     <Footer />
   </footer>
 </template>
-  
 
 <script>
 import './assets/css/main.css'
