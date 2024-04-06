@@ -22,7 +22,13 @@ ul {
     max-width: 1120px;
     padding: 0 20px;
 }
-.main_header .logo img  {
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_header .navbar img  {
     width: 50px;
     border-radius: 10px;
 }

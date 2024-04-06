@@ -1,18 +1,16 @@
 <template>
     <div class="main_header">
-        <div class="logo">
-            <!-- <img src="../assets/imgs/Eysia1.png" alt="logo" /> -->
-            <!-- <img src="../../public/img/Elysia1.png" alt="logo" /> -->
+        <div class="navbar">
             <img src="/img/Elysia1.png" alt="logo" />
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/">Gallery</a></li>
+                    <li><a href="/">Profile</a></li>
+                    <li><a href="../../about.html">About</a></li>
+                </ul>
+            </nav>
         </div>
-        <nav>
-            <ul>
-                <li><a href="/"><ion-icon name="home-outline"></ion-icon></a></li>
-                <li><a href="/products"><ion-icon name="person-outline"></ion-icon></a></li>
-                <li><a href="/services"><ion-icon name="albums-outline"></ion-icon></a></li>
-                <li><a href="../../about.html"><ion-icon name="information-circle-outline"></ion-icon></a></li>
-            </ul>
-        </nav>
 
         <div class="tool_navbar">
             <ion-icon name="settings-outline"></ion-icon>
