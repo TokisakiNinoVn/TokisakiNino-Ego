@@ -6,6 +6,10 @@ header {
     justify-content: center;
     align-items: center;
     width: 100vw;
+    position: fixed;
+    top: 20px;
+    z-index: 100;
+    
 }
 
 ul {

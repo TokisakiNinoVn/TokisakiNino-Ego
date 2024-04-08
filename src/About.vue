@@ -4,15 +4,12 @@ import footer from './components/Footer.vue'
 </script>
 
 <template>
+    <main>
+        <header>
+            <Header />
+        </header>
 
-    <header>
-        <Header />
-    </header>
-    
-    <div>
-        <h1>About</h1>
-        <p>This is the about page</p>
-    </div>
+    </main>
 
     <footer />
 

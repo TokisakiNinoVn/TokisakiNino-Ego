@@ -5,11 +5,14 @@
 }
 main {
     display: flex;
-    height: calc(100vh - 60px);
+    /* height: calc(100vh - 60px); */
+    height: calc(100vh - 20px);
+    /* height: 100vh; */
     justify-content: center;
     align-items: center;
     width: 100vw;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 .main_content {
@@ -100,10 +103,10 @@ img.elysia_main {
     width: 100%;
     font-size: 24px;
     font-weight: bold;
-    /* font-family: "Lato-Regular", sans-serif; */
     display: flex;
     align-items: center;
 }
+
 .art_box img {
     width: 180px;
     border-radius: 20px;
@@ -184,6 +187,10 @@ img.elysia_main {
     border-radius: 30px;
     padding: 5px;
     box-shadow: rgba(0, 0, 0, 0.404) 0px 5px 15px 0px;
+}
+.artboxt_wiu img:hover {
+    transform: scale(1.08);
+    transition: 0.3s ease-in-out ;
 }
 .artboxt_wiu img:nth-child(2) {
     background-color: rgba(255, 0, 242, 0.514);
