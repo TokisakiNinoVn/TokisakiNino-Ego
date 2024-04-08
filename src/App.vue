@@ -22,13 +22,13 @@
       </div>
       <div class="bottom_container">
         <div class="art_box">
-          <span>Arts</span>
+          <span>Arts <ion-icon name="chevron-forward-outline"></ion-icon> </span>
           <div class="art_container">
             <img src="/ElysiaAlbum/Elysia(3).jpg" alt="">
             <img src="/ElysiaAlbum/Elysia(3).jpg" alt="">
           </div>
+          <button>View More</button>
         </div>
-        <button>Viewmore</button>
         <div class="search_box">
           <span>Search keywords</span>
           <div class="input_search">
@@ -49,6 +49,8 @@
           </div>
         </div>
         <div class="artboxt_wiu">
+          <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
+          <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
           <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
           <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
         </div>
