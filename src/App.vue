@@ -24,8 +24,8 @@
         <div class="art_box">
           <span>Arts <ion-icon name="chevron-forward-outline"></ion-icon> </span>
           <div class="art_container">
-            <img src="/ElysiaAlbum/Elysia(3).jpg" alt="">
-            <img src="/ElysiaAlbum/Elysia(3).jpg" alt="">
+            <img src="/ElysiaAlbum/Elysia(2)4x5.jpg" alt="">
+            <img src="/ElysiaAlbum/Elysia(1)4x5.jpg" alt="">
           </div>
           <button>View More</button>
         </div>
@@ -49,10 +49,10 @@
           </div>
         </div>
         <div class="artboxt_wiu">
+          <img src="/ElysiaAlbum/ElyIcon(5).png" alt="">
           <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
-          <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
-          <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
-          <img src="/ElysiaAlbum/ElyIcon(2).png" alt="">
+          <img src="/ElysiaAlbum/ElyIcon(3).png" alt="">
+          <img src="/ElysiaAlbum/ElyIcon(4).png" alt="">
         </div>
       </div>
     </div>

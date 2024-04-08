@@ -28,9 +28,9 @@ ul, li {
     list-style: none;
 }
 
-/* body {
-
-} */
+body {
+    background-color: rgba(254, 255, 255, 0.26);
+}
 
 ::-webkit-scrollbar {
     width: 0px;
