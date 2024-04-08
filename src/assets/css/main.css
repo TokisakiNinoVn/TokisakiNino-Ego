@@ -5,10 +5,11 @@
 }
 main {
     display: flex;
-    height: calc(100vh - 70px);
+    height: 100vh;
     justify-content: center;
     align-items: center;
     width: 100vw;
+    flex-direction: column;
 }
 
 .main_content {
@@ -99,6 +100,9 @@ img.elysia_main {
     width: 100%;
     font-size: 24px;
     font-weight: bold;
+    /* font-family: "Lato-Regular", sans-serif; */
+    display: flex;
+    align-items: center;
 }
 .art_box img {
     width: 180px;
@@ -143,6 +147,7 @@ img.elysia_main {
     background-color: var(--colorSearch);
     border-radius: 18px;
     padding: 5px 5px;
+    box-shadow: rgba(0, 0, 0, 0.459) 0px 4px 6px -1px, rgba(0, 0, 0, 0.459) 0px 2px 4px -1px;
 }
 
 .input_search ion-icon {
@@ -157,6 +162,7 @@ img.elysia_main {
     color: var(--trueWhite);
     border: unset;
     font-size: 20px;
+    cursor: not-allowed;
 }
 .input_search input::placeholder {
     color: var(--trueWhite);
@@ -174,7 +180,17 @@ img.elysia_main {
 
 .artboxt_wiu img {
     width: 150px;
-    background-color: rgb(255, 0, 242);
+    background-color: rgba(255, 0, 242, 0.74);
     border-radius: 30px;
     padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.404) 0px 5px 15px 0px;
+}
+.artboxt_wiu img:nth-child(2) {
+    background-color: rgba(255, 0, 242, 0.514);
+}
+.artboxt_wiu img:nth-child(3) {
+    background-color: rgba(170, 6, 162, 0.514);
+}
+.artboxt_wiu img:nth-child(4) {
+    background-color: rgba(248, 135, 242, 0.514);
 }

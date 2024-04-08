@@ -17,8 +17,10 @@ ul {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    /* background-color: bisque; */
+    /* background-color: rgb(222, 89, 240); */
+    border-radius: 20px;
     max-width: 1120px;
+    margin-bottom: 20px;
     /* padding: 0 20px; */
 }
 .navbar {

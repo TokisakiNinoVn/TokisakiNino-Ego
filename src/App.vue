@@ -5,11 +5,11 @@
 
 
 <template>
-  <header>
-    <Header />
-  </header>
-  
   <main>
+    <header>
+      <Header />
+    </header>
+    
     <div class="main_content">
       <div class="banner">
         <img class="logoHI3" src="/img/logogame.png" alt="Logo HI3">
@@ -33,7 +33,7 @@
           <span>Search keywords</span>
           <div class="input_search">
             <ion-icon name="search-outline"></ion-icon>
-            <input type="text" placeholder="Herrscher of Human: Ego">
+            <input type="text" placeholder="Elysia">
           </div>
           <div class="input_search">
             <ion-icon name="search-outline"></ion-icon>
@@ -41,11 +41,11 @@
           </div>
           <div class="input_search">
             <ion-icon name="search-outline"></ion-icon>
-            <input type="text" placeholder="Herrscher of Human: Ego">
+            <input type="text" placeholder="HoH">
           </div>
           <div class="input_search">
             <ion-icon name="search-outline"></ion-icon>
-            <input type="text" placeholder="Herrscher of Human: Ego">
+            <input type="text" placeholder="Elysia Honkai Impact 3rd">
           </div>
         </div>
         <div class="artboxt_wiu">
