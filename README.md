@@ -1,5 +1,9 @@
-# First Vue Elysia Website
-    This project is based on my interests, it is a website using VueJs technology that I just learned about. Thank you for checking it out!🥰🍀
+# The first Vue for Elysia website
+This project is based on my interests, it is a website using VueJs technology that I just learned about. Thank you for checking it out!🥰🍀
+```sh
+https://nino.is-a.dev/
+```
+
 # Previews
 
 ## Home Page
@@ -9,9 +13,7 @@
 
 ## Project Setup
 
-```sh
-https://nino.is-a.dev/
-```
+
 ```sh
 npm install
 ```
