@@ -3,17 +3,7 @@
     --colorSearch: rgba(248, 99, 241, 0.945);
     --trueWhite: rgb(255, 255, 255);
 }
-main {
-    display: flex;
-    /* height: calc(100vh - 60px); */
-    height: calc(100vh - 20px);
-    /* height: 100vh; */
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    flex-direction: column;
-    margin-top: 20px;
-}
+
 
 .main_content {
     max-width: 1120px;

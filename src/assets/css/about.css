@@ -1,0 +1,15 @@
+@import 'style.css';
+
+.main_about {
+    max-width: 1120px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+pre {
+    font-size: 24px;
+    font-weight: lighter;
+}
