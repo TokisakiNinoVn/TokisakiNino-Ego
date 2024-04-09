@@ -1,5 +1,9 @@
 # The first Vue for Elysia website
 This project is based on my interests, it is a website using VueJs technology that I just learned about. Thank you for checking it out!🥰🍀
+<br>
+📌 Note: The website is not responsive yet because I'm too lazy to do it. 🐱
+
+
 ```sh
 https://nino.is-a.dev/
 ```
