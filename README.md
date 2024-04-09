@@ -25,7 +25,7 @@ npm install
 ### 🍀Compile and Hot-Reload for Development
 1. On terminal use:
     ```sh
-    npm run dev
+        npm run dev
     ```
 2. Click(On terminal) or open url with browser 
     ```sh
