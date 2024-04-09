@@ -7,7 +7,7 @@ header {
     align-items: center;
     width: 100vw;
     position: fixed;
-    top: 20px;
+    top: 10px;
     z-index: 100;
     
 }
@@ -23,7 +23,7 @@ ul {
     width: 100%;
     border-radius: 20px;
     max-width: 1120px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     padding: 0 10px 0 0;
 }
 .navbar {

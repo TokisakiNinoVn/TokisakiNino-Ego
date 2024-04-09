@@ -1,0 +1,29 @@
+@import 'style.css';
+
+main {
+    width: 100%;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    background-color: rgb(255, 205, 242);
+    padding: 20px;
+    font-size: 16px;
+    margin: 80px 0 0 0;
+    min-height: 100vh;
+}
+.main_gallery {
+    position: relative;
+    padding: 20px;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.main_gallery img {
+    width: 250px;
+    height: auto;
+    border-radius: 18px;
+    margin: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
