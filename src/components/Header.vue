@@ -6,7 +6,7 @@
                 <ul class="nav">
                     <li><a href="/">Home</a></li>
                     <li><a href="../../gallery.html">Gallery</a></li>
-                    <li><a href="/">Profile</a></li>
+                    <li><a href="https://nino.is-a.dev/MyOfficialWebsite/index_about.html">Profile</a></li>
                     <li><a href="../../about.html">About</a></li>
                 </ul>
             </nav>
