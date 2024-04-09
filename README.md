@@ -1,5 +1,9 @@
 # First Vue Elysia Website
 
+# Previews
+![Image Description](./public/img/preview.png)
+![Image Description](./public/img/previewGallery.png)
+
 ## Project Setup
 
 ```sh
