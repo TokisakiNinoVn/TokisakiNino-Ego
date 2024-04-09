@@ -1,4 +1,4 @@
-# VueElyWebsite
+# First Vue Elysia Website
 
 ## Project Setup
 

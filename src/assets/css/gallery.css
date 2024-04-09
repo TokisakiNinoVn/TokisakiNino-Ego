@@ -23,4 +23,5 @@ main {
 }
 .main_gallery img:hover {
     filter: drop-shadow(0 0 10px rgba(229, 23, 236, 0.623));
+    opacity: .7;
 }

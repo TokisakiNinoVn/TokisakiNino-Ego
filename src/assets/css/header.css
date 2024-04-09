@@ -37,9 +37,13 @@ ul {
     border-radius: 10px;
     margin-right: 20px;
 }
-/* ul.nav {
-
-} */
+.tool_navbar ion-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+.tool_navbar ion-icon:hover {
+    color: rgb(255, 140, 183);
+}
 ul.nav li {
     margin: 0 10px;
     font-size: 20px;
