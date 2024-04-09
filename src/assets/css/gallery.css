@@ -2,28 +2,25 @@
 
 main {
     width: 100%;
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: center; */
-    background-color: rgb(255, 205, 242);
     padding: 20px;
     font-size: 16px;
     margin: 80px 0 0 0;
-    min-height: 100vh;
+    height: unset;
+    overflow: scroll;
 }
 .main_gallery {
-    position: relative;
     padding: 20px;
-    width: 100vw;
-    min-height: 100vh;
+    columns: 6;
+    column-gap: 20px;
+    width: 100%;
 }
 
 .main_gallery img {
-    width: 250px;
+    width: calc((100%)) ;
     height: auto;
     border-radius: 18px;
-    margin: 10px;
-    position: absolute;
-    top: 0;
-    left: 0;
+    margin-bottom: 20px
+}
+.main_gallery img:hover {
+    filter: drop-shadow(0 0 10px rgba(229, 23, 236, 0.623));
 }

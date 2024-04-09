@@ -1,5 +1,11 @@
 @import 'style.css';
 
+body {
+    /* background-image: url(../../../public/ElysiaAlbum/ElyAbout.jpg); */
+    background-image: url(/ElysiaAlbum/ElyAbout.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .main_about {
     max-width: 1120px;
     width: 100%;
