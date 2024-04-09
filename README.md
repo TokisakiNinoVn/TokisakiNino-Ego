@@ -4,31 +4,31 @@ This project is based on my interests, it is a website using VueJs technology th
 https://nino.is-a.dev/
 ```
 
-# Previews
+# 🍀Previews
 
-## Home Page
+## 🍀Home Page
 ![Image Description](./public/img/preview.png)
-## Gallery
+## 🍀Gallery
 ![Image Description](./public/img/previewGallery.png)
 
-## Project Setup
+## 🍀Project Setup
 
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 🍀Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 🍀Compile and Minify for Production
 
 ```sh
 npm run build
 ```
 
-# Thanks 🥰🌠
+# 🍀Thanks 🥰🌠
 ![Image Description](./public/ElysiaAlbum/ElyIcon(5).png)
