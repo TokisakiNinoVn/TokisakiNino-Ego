@@ -7,13 +7,14 @@ import Header from './components/Header.vue'
         <header>
             <Header />
         </header>
+        
         <div class="main_about">
-            <span class="title_about">A few things I know about "Ego"</span>
-            <p class="first_para">
-                The term "Ego" is often used to refer to a part of the human mind, representing self-awareness, pride, and arrogance. In psychology, the "ego" is commonly understood as a part of the self, playing a role in mediating between the conscious and unconscious mind, and aiding adaptation to the external world. A strong ego can lead to confidence and independence, while a weak ego can result in confidence and susceptibility to harm. specific, "ego" is often associated with Sigmund Freud's concept of the three parts of the mind (id, ego, and superego), wherein "ego" acts as the intermediary, balancing the primal desires of the "id" with the societal norms of the "superego". 
+            <span class="title_about">🌠 A few things I know about "Ego" 🌠</span>
+            <p class="text_m first_para">
+                ✨ The term "Ego" is often used to refer to a part of the human mind, representing self-awareness, pride, and arrogance. In psychology, the "ego" is commonly understood as a part of the self, playing a role in mediating between the conscious and unconscious mind, and aiding adaptation to the external world. A strong ego can lead to confidence and independence, while a weak ego can result in confidence and susceptibility to harm. specific, "ego" is often associated with Sigmund Freud's concept of the three parts of the mind (id, ego, and superego), wherein "ego" acts as the intermediary, balancing the primal desires of the "id" with the societal norms of the "superego". 
             </p>
-            <p class="second_para">
-                Certainly! In Sigmund Freud's psychoanalytic theory, "id" and "superego" alongside "ego" form the fundamental trio of the mind.
+            <p class="text_m second_para">
+                🎊 Certainly! In Sigmund Freud's psychoanalytic theory, "id" and "superego" alongside "ego" form the fundamental trio of the mind.
                 <span>
                     1. Id: The "Id" represents the unconscious part of the mind, containing human's primal desires and instincts such as pleasure, gratification, and reproduction. It is not bound by any societal rules or limitations and operates on the principle of "I want what I want when I want it."
                 </span>
@@ -25,8 +26,8 @@ import Header from './components/Header.vue'
                 </span>
             </p>
             
-            <p class="third_para">
-                "Herrscher of Human: Ego" could be translated as "Authority of the Human: Ego." In this context, "Ego" can be understood as a part of the human self, representing self-awareness and consciousness, as well as as well as arrogance. This title may imply the autonomy, confidence, and willpower of humans, manifested through the strength and authority of the "ego." In some cases, this could imply the self-possession, initiative, and self-determination of individuals in their lives, not overly influenced by external factors.
+            <p class="text_m third_para">
+                ❤️ "Herrscher of Human: Ego" could be translated as "Authority of the Human: Ego." In this context, "Ego" can be understood as a part of the human self, representing self-awareness and consciousness, as well as as well as arrogance. This title may imply the autonomy, confidence, and willpower of humans, manifested through the strength and authority of the "ego." In some cases, this could imply the self-possession, initiative, and self-determination of individuals in their lives, not overly influenced by external factors.
                 <!-- <img src="../public/ElysiaAlbum/Ely_Album.jpg" alt="Elysia Icon"> -->
                 <!-- <img src="/ElysiaAlbum/ElyIcon(5).png" alt="Elysia Icon"> -->
             </p>

@@ -1,7 +1,3 @@
-// import './assets/css/main.css'
-// import './assets/css/style.css'
-
-
 
 // Hàm kiểm tra độ rộng trình duyệt và xóa phần tử body nếu cần
 function checkScreenWidth() {

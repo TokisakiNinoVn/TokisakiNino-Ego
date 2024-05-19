@@ -1,17 +1,7 @@
 @font-face {
-    font-family: "Lato", "Tinos";
-    src: url("../../../public/fonts/Lato/Lato-Black.ttf") format("woff2"),
-        url("../../../public/fonts/Lato/Lato-Regular.ttf") format("woff2"),
-        url("../../../public/fonts/Lato/Lato-Bold.ttf") format("woff2"),
-        url("../../../public/fonts/Lato/Lato-Light.ttf") format("woff2"),
-        
-        url("../../../public/fonts/Tinos/Tinos-Bold.ttf") format("woff2"),
-        url("../../../public/fonts/Tinos/Tinos-BoldItalic.ttf") format("woff2"),
-        url("../../../public/fonts/Tinos/Tinos-Italic.ttf") format("woff2"),
-        url("../../../public/fonts/Tinos/Tinos-Regular.ttf") format("woff2"),
-
+    font-family: "Akaya Telivigala";
+    src: url("fonts/Akaya_Telivigala/AkayaTelivigala-Regular.ttf") format("truetype");
 }
-
 
 * {
     margin: 0;
@@ -20,9 +10,11 @@
 }
 
 body, html {
-    font-family: "Lato-Regular", sans-serif;
+    font-family: "Akaya Telivigala", system-ui;
     font-weight: 400;
+    font-style: normal;
 }
+
 
 ul, li {
     list-style: none;
@@ -58,5 +50,5 @@ main {
     align-items: center;
     width: 100vw;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 30px;
 }

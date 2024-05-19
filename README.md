@@ -14,6 +14,8 @@ https://nino.is-a.dev/
 ![Image Description](./public/img/preview.png)
 ## 🍀Gallery
 ![Image Description](./public/img/previewGallery.png)
+## 🍀About
+![Image Description](./public/img/previewAbout.png)
 
 ## 🍀Project Setup
 
