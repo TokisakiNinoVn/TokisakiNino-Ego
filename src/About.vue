@@ -1,8 +1,3 @@
-<script setup>
-import Header from './components/Header.vue'
-import './assets/css/about.css'
-</script>
-
 <template>
     <main>
         <header>
@@ -36,3 +31,7 @@ import './assets/css/about.css'
     </main>
 </template>
 
+<script setup>
+import Header from './components/Header.vue'
+import './assets/css/about.css'
+</script>
