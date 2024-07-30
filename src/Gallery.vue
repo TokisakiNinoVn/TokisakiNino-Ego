@@ -45,5 +45,11 @@ export default {
 }
 
 }
-
 </script>
+
+<style>
+    body {
+        background-image: none !important;
+        background-image: unset !important;
+    }
+</style>

@@ -24,22 +24,23 @@ https://nino.is-a.dev/
 npm install
 ```
 
-### 🍀Compile and Hot-Reload for Development
+## 🍀Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+## 🍀Compile and Hot-Reload for Development
 1. On terminal use:
     ```sh
         npm run dev
     ```
 2. Click(On terminal) or open url with browser 
     ```sh
-    http://localhost:5173/
+    http://localhost:___/
     ```
 
 
-### 🍀Compile and Minify for Production
-
-```sh
-npm run build
-```
-
 # 🍀Thanks 🥰🌠
 ![Image Description](./public/ElysiaAlbum/ElyIcon(5).png)
+![Image Description](./public/ElysiaAlbum/Gallery/Elysia(1).gif)

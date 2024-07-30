@@ -1,8 +1,8 @@
 @import 'style.css';
 
-/* body {
-    background-image: none;
-} */
+body {
+    background-image: none !important;
+}
 
 main {
     width: 100%;
