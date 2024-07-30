@@ -15,3 +15,7 @@ window.addEventListener('scroll', function() {
 
     lastScrollPosition = currentScrollPosition <= 0 ? 0 : currentScrollPosition;
 });
+
+
+const bodyElement = document.querySelector('body')
+bodyElement.style.backgroundImage = 'none';

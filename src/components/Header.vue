@@ -1,7 +1,7 @@
 <template>
     <div class="main_header">
       <div class="navbar">
-        <img src="/img/Elysia1.png" alt="logo" />
+        <img src="/ElysiaAlbum/Gallery/ELysia(24).jpg" alt="logo" />
         <nav>
           <ul class="nav">
             <li><router-link to="/">Home</router-link></li>

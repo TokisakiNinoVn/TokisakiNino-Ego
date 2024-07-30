@@ -23,17 +23,27 @@ export default {
         }
     },
     async created() {
-        try {
-            const response = await fetch('/ElysiaAlbum/images.json');
-            const data = await response.json();
-            this.images = data.map(item => ({
-                id: item.id,
-                src: `/ElysiaAlbum/Gallery/${item.file_name}`
-            }));
-        } catch (error) {
-            console.error('Error fetching images:', error);
-        }
+    try {
+        const response = await fetch('/ElysiaAlbum/images.json');
+        const data = await response.json();
+
+        const shuffleArray = array => {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        };
+
+        this.images = shuffleArray(data.map(item => ({
+            id: item.id,
+            src: `/ElysiaAlbum/Gallery/${item.file_name}`
+        })));
+    } catch (error) {
+        console.error('Error fetching images:', error);
     }
+}
+
 }
 
 </script>

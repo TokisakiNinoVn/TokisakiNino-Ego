@@ -1,5 +1,9 @@
 @import 'style.css';
 
+/* body {
+    background-image: none;
+} */
+
 main {
     width: 100%;
     padding: 20px;
