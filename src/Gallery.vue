@@ -48,8 +48,7 @@ export default {
 </script>
 
 <style>
-    body {
+    body.main_gallery {
         background-image: none !important;
-        background-image: unset !important;
     }
 </style>
