@@ -4,10 +4,10 @@
         <img src="/img/Elysia1.png" alt="logo" />
         <nav>
           <ul class="nav">
-            <li><router-link :to="{ path: '/' }">Home</router-link></li>
-            <li><router-link :to="{ path: '/gallery' }">Gallery</router-link></li>
+            <li><router-link to="/">Home</router-link></li>
+            <li><router-link to="/gallery">Gallery</router-link></li>
             <li><a href="https://nino.is-a.dev">Profile</a></li>
-            <li><router-link :to="{ path: '/about' }">About</router-link></li>
+            <li><router-link to="/about">About</router-link></li>
             <li><a href="https://www.pinterest.com/ninomemories/elysia/">Pinterest</a></li>
           </ul>
         </nav>
