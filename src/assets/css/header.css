@@ -51,6 +51,7 @@ ul.nav li {
 }
 ul.nav li:hover {
     border-bottom: 3px solid rgb(255, 140, 183);
+    cursor: pointer;
 }
 
 ul.nav li a:hover {
